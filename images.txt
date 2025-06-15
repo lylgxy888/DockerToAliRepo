@@ -15,6 +15,10 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-nacos/nacos-server:v3.0.1
-
-
+#nacos/nacos-server:v3.0.1
+mysql:8.0.33
+redis:6.2
+semitechnologies/weaviate:1.30.0
+ruoyi-ai-backend:v2.0.5
+ruoyi-ai-admin:v2.0.5
+ruoyi-ai-web:v2.0.5
